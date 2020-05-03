@@ -1,0 +1,5 @@
+-common tree traversals
+-generic pathfinder algorithm
+-sorting algorithms (insertion, bubble, select, merge, quick, etc.)
+-searching (binary search)
+-bfs, dfs
